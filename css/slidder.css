@@ -1,0 +1,20 @@
+.swiper{
+width: 100% !important;
+}
+
+.slides{
+  background-color: rgb(62, 16, 16);
+  margin: 5px;
+  border-radius: 10px;
+}
+
+.slides img{
+  width: 100%;
+  position: relative;
+}
+
+.slide__title{
+  color: red;
+  padding: 5px;
+  font-size: 25px;
+}
